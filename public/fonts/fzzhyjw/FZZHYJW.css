@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "FZZHYJW";
+    src: url("FZZHYJW.eot"); /* IE9 */
+    src: url("FZZHYJW.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("FZZHYJW.woff") format("woff"), /* chrome、firefox */
+    url("FZZHYJW.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("FZZHYJW.svg#FZZHYJW") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
